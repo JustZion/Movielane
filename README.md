@@ -41,22 +41,3 @@ A React webApp for movie trailers
 
 
 
-![il]
-
-
-
-
-![id](https://user-images.githubusercontent.com/24590667/184549558-b3305ac4-4be9-4b2d-92e7-460085478752.JPG)
-![ll](https://user-images.githubusercontent.com/24590667/184549699-e391a122-a140-4897-b2bb-1c616f1000ed.JPG)
-
-
-
-![md](https://user-images.githubusercontent.com/24590667/184549570-b2e81a72-9e06-4423-8cff-cb2f43e51d49.JPG)
-
-![ml](https://user-images.githubusercontent.com/24590667/184549571-87c1bde3-6922-457d-ad0b-870eb5e0d2ab.JPG)
-
-
-
-
-
-
