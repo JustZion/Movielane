@@ -1,0 +1,652 @@
+.dark {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E);
+  margin: -10px -10px -20px -10px !important;
+  height: 100% !important;
+  min-height: 100% !important;
+  background-color: red !important;
+  
+  
+}
+
+body {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E);
+  overflow-x: hidden !important;
+  height: 100%;
+  min-height: 100% ;
+  padding: 0px !important;
+  background-color: white !important;
+  
+}
+
+
+.dark .footer {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E);
+  
+  
+  
+  
+}
+
+.light .footer {
+  background-image: linear-gradient(to bottom right, #FFFAFB , white);
+  
+}
+
+
+.root {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E) !important;
+  
+}
+
+.light {
+  background: white;
+  margin: -10px -10px -20px -10px !important;
+ 
+  
+}
+
+.dark .appBar {
+  background-color: black !important;
+ }
+
+ .mstars {
+  position: absolute !important;
+  margin: 1px 0px 0px -26px  !important;
+  font-size: 18px !important;
+ }
+
+ .light .appBar {
+  background-color: #1976D2 !important;
+ }
+
+ .dark .whiteText {
+  color: white !important;
+ }
+
+ .light .whiteText {
+  color: black
+ }
+
+ .ww {
+  color: white !important;
+  cursor: pointer;
+ }
+
+ .bb {
+  color: black !important;
+  cursor: pointer;
+ }
+
+.blackBgww {
+  background-color: #FFFAFB;
+}
+
+
+
+
+
+.dark .cardC {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E);
+  color: white !important;
+  
+
+}
+
+.light .cardC {
+  background: white;
+  color: black !important;
+  
+
+}
+
+.dark .mininav {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E);
+}
+
+.light .mininav {
+  background-image: linear-gradient(to bottom right, #FFFAFB , white);
+  color: black !important;
+}
+
+.yy {
+  border: 20px solid red !;
+}
+
+
+.dark .sb {
+ 
+ background-color: #D32F2F !important;
+}
+
+.light .sb {
+ 
+  
+  background-color: #1976D2 !important;
+ }
+
+.movie-name {
+ word-wrap: break-word;
+ line-height: 30px !important;
+ margin-top: 5px;
+}
+
+.mainMovie {
+  transition: 0.25s all ease-in-out;
+  
+}
+
+.card-movie {
+  border-radius: 0px !important;
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.dark .MuiCardActionArea-root {
+  background-color: black !important;
+ 
+}
+
+.light .MuiCardActionArea-root {
+  background-color: white !important;
+ 
+}
+
+.movieCard {
+  text-decoration: none;
+  
+}
+
+.mainMovie:hover {
+  transform: scale(1.1,1.1);
+}
+
+.cover-movies {
+  background-color: red;
+  position: fixed;
+  
+}
+
+.active {
+  color: orange;
+}
+
+.active-button {
+  border-bottom: 2px solid white !important;
+  border-radius: 0px !important;
+ 
+ 
+  transition: 0.1s all ease-in-out !important;
+}
+
+.light .active-buttonn {
+  border-bottom: 2.4px solid black !important;
+  border-radius: 0px !important;
+ 
+ 
+  transition: 0.1s all ease-in-out !important;
+}
+
+.dark .active-buttonn {
+  border-bottom: 2px solid white !important;
+  border-radius: 0px !important;
+ 
+ 
+  transition: 0.1s all ease-in-out !important;
+}
+
+.active-buttonnn {
+  border-bottom: 2px solid white !important;
+ 
+  border-radius: 0px !important;
+  color: green !important;
+  padding: 0px !important;
+  
+ 
+}
+.norm {
+  margin: 0px 12px;
+}
+
+
+.normal-button {
+  color: white;
+  cursor: pointer;
+ 
+  margin: 0px !important;
+}
+
+.menuClick {
+  color: #D32F2F;
+  border-bottom: 0px !important;
+  cursor: pointer;
+  margin: 0px !important;
+}
+
+.menuClickk {
+  color: #1976D2;
+  border-bottom: 0px !important;
+  cursor: pointer;
+ 
+  margin: 0px !important;
+}
+
+.nnormal-button {
+  color: blue;
+  cursor: pointer;
+ 
+  margin: 0px !important;
+}
+
+.normal-button:hover {
+    
+   
+}
+.rate-number {
+ position: relative;
+ top: -5.5px; left: 5px;
+ font-size: 15px;
+ font-family: monospace;
+ font-size: 17px;
+ color: white;
+
+}
+
+
+
+.itemm {
+ 
+  background-color: #D32F2F;
+  
+}
+
+.iitemm {
+ 
+  background-color: #1976D2;
+  
+}
+
+.trust {
+  color: white  !important;
+ font-size: 30px;
+  margin-bottom: 0px !important;
+
+ 
+
+}
+
+.trustt {
+  color: white  !important;
+ font-size: 30px;
+  margin-bottom: 0px !important;
+
+}
+
+.normal {
+  color: white !important;
+ 
+}
+
+.normall {
+  color: black !important;
+ 
+}
+
+.spinner {
+  position: relative;
+  top: '-20px'
+}
+
+.main_menu {
+  position: fixed;
+  
+  background-color: red;
+  margin: 0;
+  width: 30%;
+  
+}
+
+
+
+.triall {
+  position: absolute !important;
+  top: 0px !important;
+}
+
+.yyy {
+  position: fixed !important;
+  top: 200px !important;
+}
+
+.drawerr {
+ overflow-y: scroll;
+ padding-right: 17px;
+ width: 110%;
+ scroll-behavior: smooth !important;
+ box-sizing: content-box;
+ background-image: linear-gradient(to bottom right, #191919, #1E1E1E);
+  
+}
+
+.drrawerr {
+  overflow-y: scroll;
+  padding-right: 17px;
+  width: 110%;
+  scroll-behavior: smooth !important;
+  box-sizing: content-box;
+  background-color: white;
+   
+ }
+
+.right, .left {
+ 
+ height: 70px;
+  width: 40px !important;
+ margin: -20px 0px 0px 20px !important;
+  transition: 0.3s all ease-in-out;
+  padding: 0px !important;
+  
+}
+
+
+
+.right:hover , .rightt:hover {
+  transform: translate(10px) scale(1.4,1.4);
+   
+}
+
+.left:hover  {
+  transform: translate(-5px) scale(1.4,1.4);
+   
+}
+
+.right {
+ position: absolute;
+ left: 0px;
+ margin-top: 270px  !important
+
+}
+
+.left {
+  position: absolute;
+  left: 8px;
+  margin-top: -10px  !important
+ 
+ }
+
+
+.rightt {
+  position: absolute;
+  left: 25px;
+  margin-top: 540px  !important
+ 
+ }
+.horizon {
+ padding: 0px 0px 0px 0px ;
+ 
+}
+
+.react-horizontal-scrolling-menu--scroll-container  {
+  
+ 
+   padding:20px 30px 0px 60px;
+   margin: 10px 11px 0px -38px;
+   
+  }
+
+  .react-horizontal-scrolling-menu--scroll-container::-webkit-scrollbar {
+    width: 0em;
+  }
+
+.react-horizontal-scrolling-menu--wrapper {
+ 
+ 
+}
+
+@media screen and (max-width: 12000px) and (min-width: 600px) {
+ 
+}
+
+
+
+
+.footer-img {
+  width: 300px;
+  height: 100px;
+}
+
+
+.main_image {
+  height: 550px;
+  background-size: cover;
+  
+}
+
+@media screen and (max-width: 600px) and (min-width: 0px) {
+  .main_image, .youtube, .yt {
+    height: 300px !important;
+  }
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  .main_image, .youtube, .yt {
+    height: 380px !important;
+    
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 900px) {
+  .main_image, .youtube, .yt {
+    height: 600px !important;
+    
+  }
+}
+.youtube {
+  position: absolute;
+ 
+ 
+}
+
+
+.yyt {
+  display: none;
+}
+
+.yt {
+ height: 100% !important;
+
+ 
+}
+
+.blackBg {
+  background-image: linear-gradient(to bottom right, #191919, #1E1E1E)
+}
+
+.dark .trailer {
+  background-color: #D32F2F;
+}
+
+.light .trailer {
+  background-color: #1976D2;
+}
+
+.dark .trailer:hover {
+  background-color: #D32F0F !important;
+}
+
+.dark .profile {
+  width: 147px;
+  height: 145px;
+  border-radius: 200%;
+  border: 5px solid white;
+  padding: 0px !important;
+}
+
+.light .profile {
+  width: 147px;
+  height: 145px;
+  border-radius: 200%;
+  border: 7px solid #1976D2;
+  padding: 0px !important;
+}
+
+.image-actor {
+  transition: 0.3s all ease-in-out;
+  text-decoration: none !important;
+  color: black;
+
+}
+
+.image-actorr {
+  transition: 0.3s all ease-in-out;
+  text-decoration: none !important;
+  color: white;
+  padding: 0px 20px 6px 20px !important;
+
+}
+
+.dark .image-actorrr {
+  transition: 0.3s all ease-in-out;
+  text-decoration: none !important;
+  color: white;
+  padding: 0px 5px 15px 26px !important;
+
+}
+
+
+
+.light .image-actorrr {
+  transition: 0.3s all ease-in-out;
+  text-decoration: none !important;
+  color: black ;
+  padding: 0px 5px 15px 26px !important;
+
+}
+
+.image-actorrr:hover {
+  transform: scale(2,1.1);
+  cursor: pointer;
+  color: black;
+}
+
+.dark .image-actorrr:hover {
+  transform: scale(2,1.1);
+  cursor: pointer;
+  color: white;
+}
+
+
+.dark .linkh {
+  color: #D32F2F;
+  text-decoration: none;
+}
+
+.light .linkh {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.image-actor:hover {
+  transform: scale(1.1,1.1);
+  cursor: pointer;
+ 
+
+}
+
+.image-actorr:hover {
+  transform: scale(5.07,5.07) !important
+}
+
+.sss {
+  padding: 30px;
+  width: 200px;
+}
+
+select {
+  
+  border-right: 16px solid transparent;
+  
+ 
+  
+}
+
+
+.dark .searchh fieldset {
+  border: 0px !important;
+  border-radius: 0px !important;
+  border-bottom: 2px solid #D32F2F !important ;
+  
+  border-bottom-right-radius:  0px !important;
+  border-top-right-radius: 0px !important;
+  height: 56.9px !important;
+  color: white !important;
+  transition: 0.3s all ease-in-out;
+  transform: scale(1.1,1.0);
+  
+}
+
+.dark .MuiOutlinedInput-input {
+  color: white !important;
+}
+
+.light .MuiOutlinedInput-input {
+  color: black !important;
+}
+
+.light .searchh fieldset {
+  border: 0px !important;
+  border-radius: 0px !important;
+  border-bottom: 2px solid #1976D2 !important ;
+  
+  border-bottom-right-radius:  0px !important;
+  border-top-right-radius: 0px !important;
+  height: 56.9px !important;
+  color: white !important;
+  transition: 0.3s all ease-in-out;
+  transform: scale(1.1,1.0);
+  
+}
+
+.dark .searchh:hover fieldset {
+  border-bottom: 2px solid #D32F2F !important;
+  transform: scale(1.2,1.0);
+  
+  
+}
+
+.searchh:hover fieldset {
+  border-bottom: 2px solid #1976D2 !important;
+  transform: scale(1.2,1.0);
+  
+  
+}
+
+
+
+
+
+
+
+
+.MuiButton-root {
+  border: 30px !important;
+}
+
+.dark .MuiPaginationItem-root {
+  color: white !important;
+}
+
+.light .MuiPaginationItem-root {
+  color: black !important;
+}
+
+.dark .Mui-selected {
+  background-color: #D32F2F !important;
+  
+}
+
+.light .Mui-selected {
+  background-color: #1976D2 !important;
+  color: white !important;
+}
